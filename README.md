@@ -57,3 +57,8 @@ Sorted by year and the format is: abbreviation, paper title, publication, [highl
 - ORDSIM, [ORDSIM Ordinal Regression for E-Commerce Query Similarity Prediction](https://arxiv.org/abs/2203.06591), **ISIR2022_workshop**,
 - CLE-QR, [Query Rewriting in TaoBao Search](https://www.researchgate.net/profile/Sen-Li-38/publication/362546141_Query_Rewriting_in_TaoBao_Search/links/62f0d8110b37cc34477d561a/Query-Rewriting-in-TaoBao-Search.pdf), **CIKM2022**, [contrastive learning,  relevance and personalization]
 - 
+
+### In 2025
+
+- ExpandR, [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/), **EMNLP2025**, [LLM query expansion aligned with ranking preferences via DPO, jointly optimized with the dense retriever], [code-official](https://github.com/NEUIR/ExpandR)
+- 
